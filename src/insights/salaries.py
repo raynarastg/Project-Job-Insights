@@ -46,6 +46,6 @@ def filter_by_salary_range(
             if int(min_salary) <= int(salary) <= int(max_salary):
                 salariesJob.append(job)
     except Exception:
-        pass
+        ValueError
 
     return salariesJob

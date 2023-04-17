@@ -28,6 +28,14 @@ Neste projeto foi aplicado os seguintes conceitos:
 - Use o comando: `git clone git@github.com:raynarastg/Project-Job-Insights.git`.
 - Entre na pasta do repositório que você acabou de clonar:
   - `cd Project-Job-Insights`
+  
+  1. Crie o ambiente virtual para o projeto
+
+  - `python3 -m venv .venv && source .venv/bin/activate`
+  
+  2. Instale as dependências
+
+  - `python3 -m pip install -r dev-requirements.txt`
 
 <br/>
 

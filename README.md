@@ -3,7 +3,7 @@
 <details>
   <summary><strong>👨‍💻 O que foi desenvolvido nesse projeto</strong></summary><br />
 
- Neste projeto foi implementado análises a partir de um conjunto de dados sobre empregos. As implementações forão incorporadas a um aplicativo Web desenvolvido com Flask (um framework web muito popular na comunidade Python).
+ Neste projeto foi implementado análises a partir de um conjunto de dados sobre empregos. As implementações foram incorporadas a um aplicativo Web desenvolvido com Flask (um framework web muito popular na comunidade Python).
 </details>
 
 <details>

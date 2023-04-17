@@ -1,10 +1,36 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+# Job Insights
+
+<details>
+  <summary><strong>👨‍💻 O que foi desenvolvido nesse projeto</strong></summary><br />
+
+ Neste projeto foi implementado análises a partir de um conjunto de dados sobre empregos. As implementações forão incorporadas a um aplicativo Web desenvolvido com Flask (um framework web muito popular na comunidade Python).
+</details>
+
+<details>
+  <summary><strong>💫 Habilidades</strong></summary><br />
+
+Neste projeto foi aplicado os seguintes conceitos:
+
+- Utilizar o terminal interativo do Python.
+- Utilizar estruturas condicionais e de repetição.
+- Utilizar funções built-in do Python.
+- Utilizar tratamento de exceções.
+- Realizar a manipulação de arquivos.
+- Escrever funções.
+- Escrever testes com Pytest.
+- Escrever seus próprios módulos e importá-los em outros códigos.
+  
+</details>
+
+
+## Clone o projeto
+
+- Use o comando: `git clone git@github.com:raynarastg/Project-Job-Insights.git`.
+- Entre na pasta do repositório que você acabou de clonar:
+  - `cd Project-Job-Insights`
+
+<br/>
+
+ 
+
+
